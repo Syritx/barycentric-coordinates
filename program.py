@@ -2,7 +2,6 @@ import random
 
 # classes
 class vector3:
-
     x = 0
     y = 0 
     z = 0
@@ -13,7 +12,6 @@ class vector3:
         self.z = z
 
 class vector2:
-
     x = 0
     y = 0
 
